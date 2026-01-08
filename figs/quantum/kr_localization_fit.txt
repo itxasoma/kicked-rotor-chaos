@@ -1,0 +1,9 @@
+Fit window: |m| in [50, 400]
+slope b = -1.648076e-01
+xi = 6.067681
+R^2 = 0.978436
+npoints = 702
+plateau_start = 2000
+plateau_mean = 1.914838385484e+02
+plateau_std = 5.131999772574e+01
+max_abs_norm_minus_1 = 0.000000000000e+00
